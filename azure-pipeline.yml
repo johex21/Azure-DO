@@ -6,7 +6,7 @@ pool:
 
 variables:
   azureSubscription: 'CnGrp4' # Este es un nombre que debe cambiar al que crearon.
-  location: 'northcetralus' # Este es un nombre que debe cambiar al que crearon.
+  location: 'northcentralus' # Este es un nombre que debe cambiar al que crearon.
   resourceGroupName: 'MIRecursosGrp4' # Este es un nombre que debe cambiar al que crearon.
   virtualNetworkName: 'VNet-taller-DevOps'
   subnetName: 'Subnet-taller-DevOps'
